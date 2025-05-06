@@ -23,9 +23,11 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 ### [Text Generation](#2.6)
 
 <p id="1"></p >
+
 ## LLMs Taxonomy
 
 <p id="1.1"></p >
+
 ### 1. Closed Source LLMs
 
 <p id="1.1.1"></p >
