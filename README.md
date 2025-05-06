@@ -49,12 +49,6 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 
 
-<p id="1.1.3"></p >
-#### 1.3 The Gemini Family
-
-
-
-
 
 <p id="1.2"></p >
 ### 2. Closed Source LLMs
@@ -74,8 +68,8 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 
 
-<p id="1.2.3"></p >
-#### 2.3 Others
+<p id="1.3"></p >
+### 3. Others
 
 
 
@@ -88,17 +82,43 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 <p id="2.1"></p >
 ### 1. Data Generation
 
+
+
+
+
+
 <p id="2.2"></p >
 ### 2. CAD Code Generation
+
+
+
+
 
 <p id="2.3"></p >
 ### 3. Parametric CAD Generation
 
+
+
+
+
+
+
 <p id="2.4"></p >
 ### 4. Image Generation
 
+
+
+
+
+
 <p id="2.5"></p >
 ### 5. Model Evaluation
+
+
+
+
+
+
 
 <p id="2.6"></p >
 ### 6. Text Generation
