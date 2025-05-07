@@ -112,7 +112,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
 [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf)
--------------------------------------------------------------------------
+#------------------------------------------------------------------------
 <p id="2"></p >
 
 
