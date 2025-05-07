@@ -162,12 +162,19 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions](https://openreview.net/forum?id=CfXh93NDgH)
 
 [The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only](https://arxiv.org/abs/2306.01116)
+
+[Zephyr: Direct Distillation of LM Alignment](https://openreview.net/forum?id=aKkAwZB6JV#discussion)
+
+[Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
+
+[XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters](https://dl.acm.org/doi/abs/10.1145/3583780.3615285)
+
+[CodeT5+: Open Code Large Language Models for Code Understanding and Generation](https://aclanthology.org/2023.emnlp-main.68/)
+
+[Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+
+[Stable LM 2 1.6B Technical Report](https://arxiv.org/abs/2402.17834)
 <p id="2"></p >
-
-
-
-
-
 
 ## CAD Application Taxonomy
 <p id="2.1"></p >
