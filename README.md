@@ -31,18 +31,41 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 <p id="1.1.1"></p >
 
 #### 1.1 The GPT Family
+
+[Language Models are Few-Shot Learners](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
+
+[Evaluating Large Language Models Trained on Code](https://arxiv.org/abs/2107.03374)
+
+[WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332)
+
+[Training language models to follow instructions with human feedback
+](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
+
+[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+
+[GPT-4V(ision) System Card])(https://cdn.openai.com/papers/GPTV_System_Card.pdf)
+
+[GPT-4o System Card](https://arxiv.org/abs/2410.21276)
+
+[OpenAI o1 System Card](https://arxiv.org/abs/2412.16720)
 <p id="1.1.2"></p >
 
-
-
-
-
 #### 1.2 The PaLM Family
+
+[PaLM: Scaling Language Modeling with Pathways](https://www.jmlr.org/papers/v24/22-1144.html)
+
+[PaLM 2 Technical Report](https://arxiv.org/abs/2305.10403)
+
+[Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
+
+[Toward expert-level medical question answering with large language models](https://www.nature.com/articles/s41591-024-03423-7)
+
+[PaLM-E: An Embodied Multimodal Language Model](https://proceedings.mlr.press/v202/driess23a.html)
+
+[Transcending Scaling Laws with 0.1% Extra Compute](https://openreview.net/forum?id=Cf6VhQFmhP)
+
+[Scaling Instruction-Finetuned Language Models](https://www.jmlr.org/papers/v25/23-0870.html)
 <p id="1.1.3"></p >
-
-
-
-
 
 #### 1.3 The Gemini Family
 <p id="1.2"></p >
