@@ -214,7 +214,9 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement](https://arxiv.org/abs/2412.14203)
 
 [CAD Translator: An Effective Drive for Text to 3D Parametric Computer-Aided Design Generative Modeling](https://dl.acm.org/doi/abs/10.1145/3664647.3681549)
+<p id="2.2"></p >
 
+### 2. CAD Code Generation
 [LLM4CAD: Multi-Modal Large Language Models for 3D Computer-Aided Design Generation](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2024/88407/1208976)
 
 [LLM4CAD: Multimodal Large Language Models for Three-Dimensional Computer-Aided Design Generation](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/25/2/021005/1208543/LLM4CAD-Multimodal-Large-Language-Models-for-Three?redirectedFrom=fulltext)
@@ -230,14 +232,6 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Large Language Models for Design and Manufacturing](https://mit-genai.pubpub.org/pub/nmypmnhs/release/2)
 
 [Utilizing ChatGPT to assist CAD design for microfluidic devices](https://pubs.rsc.org/en/content/articlelanding/2015/3a/d3lc00518f/unauth)
-<p id="2.2"></p >
-
-
-
-
-
-
-### 2. CAD Code Generation
 <p id="2.3"></p >
 
 
