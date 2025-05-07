@@ -113,6 +113,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 [The Claude 3 Model Family: Opus, Sonnet, Haiku](https://www-cdn.anthropic.com/de8ba9b01c9ab7cbabf5c33b80b7bbc618857627/Model_Card_Claude_3.pdf)
 
+-------------------------------------------------------------------------
 
 [LIMA: Less Is More for Alignment](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ac662d74829e4407ce1d126477f4a03a-Abstract-Conference.html)
 <p id="2"></p >
