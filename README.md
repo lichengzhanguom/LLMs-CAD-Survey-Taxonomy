@@ -76,25 +76,34 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)
 <p id="1.2"></p >
 
-### 2. Closed Source LLMs
+### 2. Publicly Available LLMs
 <p id="1.2.1"></p >
 
 #### 2.1 The LLaMA Family
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
+
+[Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288)
+
+[The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783)
 <p id="1.2.2"></p >
 
-
-
-
-
-
 #### 2.2 The DeepSeek Family
+[DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://arxiv.org/abs/2401.14196)
+
+[DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://arxiv.org/abs/2401.02954)
+
+[DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://openreview.net/forum?id=EmUsC2FogT)
+
+[DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300)
+
+[DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://arxiv.org/abs/2403.05525)
+
+[DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+
+[DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437)
+
+[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948)
 <p id="1.3"></p >
-
-
-
-
-
-
 
 ### 3. Others
 <p id="2"></p >
