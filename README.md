@@ -107,7 +107,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 ### 3. Others
 
-[PanGu-?: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
+[PanGu-Sigma: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
 
 [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
