@@ -174,12 +174,62 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 
 [Stable LM 2 1.6B Technical Report](https://arxiv.org/abs/2402.17834)
+
+-------------------------------------------------------------------------
+
+[InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.html)
+
+[Mixtral of Experts](https://arxiv.org/abs/2401.04088)
+
+[Self-Instruct: Aligning Language Models with Self-Generated Instructions](https://aclanthology.org/2023.acl-long.754/)
+
+[CoCa: Contrastive Captioners are Image-Text Foundation Models](https://openreview.net/forum?id=Ee277P3AYC)
+
+[Qwen2.5-Coder Technical Report](https://arxiv.org/abs/2409.12186)
+
+[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://proceedings.mlr.press/v202/li23q)
+
+[OpenELM: An Efficient Language Model Family with Open Training and Inference Framework](https://arxiv.org/abs/2404.14619)
+
+[Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
+
+[TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/abs/2402.14289)
 <p id="2"></p >
 
 ## CAD Application Taxonomy
 <p id="2.1"></p >
 
 ### 1. Data Generation
+
+[OpenECAD: An efficient visual language model for editable 3D-CAD design](https://www.sciencedirect.com/science/article/abs/pii/S0097849324001833)
+
+[CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](https://arxiv.org/abs/2411.04954)
+
+[Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0e5b96f97c1813bb75f6c28532c2ecc7-Abstract-Conference.html)
+
+[Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models](https://arxiv.org/abs/2501.19054)
+
+[CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/32849)
+
+[BlenderLLM: Training Large Language Models for Computer-Aided Design with Self-improvement](https://arxiv.org/abs/2412.14203)
+
+[CAD Translator: An Effective Drive for Text to 3D Parametric Computer-Aided Design Generative Modeling](https://dl.acm.org/doi/abs/10.1145/3664647.3681549)
+
+[LLM4CAD: Multi-Modal Large Language Models for 3D Computer-Aided Design Generation](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2024/88407/1208976)
+
+[LLM4CAD: Multimodal Large Language Models for Three-Dimensional Computer-Aided Design Generation](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/25/2/021005/1208543/LLM4CAD-Multimodal-Large-Language-Models-for-Three?redirectedFrom=fulltext)
+
+[Large Language Models for Computer-Aided Design Fine Tuned: Dataset and Experiments](https://asmedigitalcollection.asme.org/mechanicaldesign/article-abstract/147/4/041710/1212251/Large-Language-Models-for-Computer-Aided-Design?redirectedFrom=fulltext)
+
+[Generating CAD Code with Vision-Language Models for 3D Designs](https://openreview.net/forum?id=BLWaTeucYX)
+
+[Query2CAD: Generating CAD models using natural language queries](https://arxiv.org/abs/2406.00144)
+
+[How Can Large Language Models Help Humans in Design and Manufacturing?](https://arxiv.org/abs/2307.14377)
+
+[Large Language Models for Design and Manufacturing](https://mit-genai.pubpub.org/pub/nmypmnhs/release/2)
+
+[Utilizing ChatGPT to assist CAD design for microfluidic devices](https://pubs.rsc.org/en/content/articlelanding/2015/3a/d3lc00518f/unauth)
 <p id="2.2"></p >
 
 
