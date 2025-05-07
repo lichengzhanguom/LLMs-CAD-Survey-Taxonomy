@@ -43,7 +43,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
 
-[GPT-4V(ision) System Card])(https://cdn.openai.com/papers/GPTV_System_Card.pdf)
+[GPT-4V(ision) System Card](https://cdn.openai.com/papers/GPTV_System_Card.pdf)
 
 [GPT-4o System Card](https://arxiv.org/abs/2410.21276)
 
@@ -67,13 +67,14 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Scaling Instruction-Finetuned Language Models](https://www.jmlr.org/papers/v25/23-0870.html)
 <p id="1.1.3"></p >
 
-#### 1.3 The Gemini Family
+#### 1.3 The Gemini Series
+[Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
+[Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://arxiv.org/abs/2403.05530)
+
+[Gemma: Open Models Based on Gemini Research and Technology](https://arxiv.org/abs/2403.08295)
+
+[Gemma 2: Improving Open Language Models at a Practical Size](https://arxiv.org/abs/2408.00118)
 <p id="1.2"></p >
-
-
-
-
-
 
 ### 2. Closed Source LLMs
 <p id="1.2.1"></p >
