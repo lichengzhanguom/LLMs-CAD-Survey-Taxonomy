@@ -198,6 +198,12 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Qwen2 Technical Report](https://arxiv.org/abs/2407.10671)
 
 [Improved Baselines with Visual Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Improved_Baselines_with_Visual_Instruction_Tuning_CVPR_2024_paper.html)
+
+[LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326)
+
+[Evaluating Text-to-Visual Generation with Image-to-Text Generation](https://link.springer.com/chapter/10.1007/978-3-031-72673-6_20)
+
+[MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://openreview.net/forum?id=3X2L2TFr0f#discussion)
 <p id="2"></p >
 
 ## CAD Application Taxonomy
@@ -210,8 +216,6 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM](https://arxiv.org/abs/2411.04954)
 
 [Text2CAD: Generating Sequential CAD Designs from Beginner-to-Expert Level Text Prompts](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0e5b96f97c1813bb75f6c28532c2ecc7-Abstract-Conference.html)
-
-[Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models](https://arxiv.org/abs/2501.19054)
 
 [CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs](https://ojs.aaai.org/index.php/AAAI/article/view/32849)
 
@@ -261,26 +265,34 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823)
 <p id="2.4"></p >
 
-
-
-
-
-
 ### 4. Image Generation
+
+[ChatCAD: An MLLM-Guided Framework for Zero-shot CAD Drawing Restoration](https://ieeexplore.ieee.org/abstract/document/10890248)
 <p id="2.5"></p >
 
-
-
-
-
 ### 5. Model Evaluation
+
+[Text-to-CAD Generation Through Infusing Visual Feedback in Large Language Models](https://arxiv.org/abs/2501.19054)
 <p id="2.6"></p >
-
-
-
-
-
 
 ### 6. Text Generation
 
+[3DALL-E: Integrating Text-to-Image AI in 3D Design Workflows](https://dl.acm.org/doi/abs/10.1145/3563657.3596098)
 
+[ReparamCAD: Zero-shot CAD Re-Parameterization for Interactive Manipulation](https://dl.acm.org/doi/abs/10.1145/3610548.3618219)
+
+[CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_CADTalk_An_Algorithm_and_Benchmark_for_Semantic_Commenting_of_CAD_CVPR_2024_paper.html)
+
+[An intelligent interactive system based on LLM to combine CAD API development with FEA(https://ieeexplore.ieee.org/abstract/document/10862035)
+
+[Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](https://arxiv.org/abs/2411.02810)
+
+[AI large models bring great opportunities to reusable design of cad software(https://doiserbia.nb.rs/Article.aspx?id=1820-02142400046S)
+
+[From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design](https://arxiv.org/abs/2311.12668)
+
+[From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://ojs.aaai.org/index.php/AAAI/article/view/32858)
+
+[Mini-InternVL: a flexible-transfer pocket multi-modal model with 5% parameters and 90% performance](https://link.springer.com/article/10.1007/s44267-024-00067-6)
+
+[Large Language Models for Manufacturing](https://arxiv.org/abs/2410.21418)
