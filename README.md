@@ -194,6 +194,10 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://arxiv.org/abs/2404.14219)
 
 [TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://arxiv.org/abs/2402.14289)
+
+[Qwen2 Technical Report](https://arxiv.org/abs/2407.10671)
+
+[Improved Baselines with Visual Instruction Tuning](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Improved_Baselines_with_Visual_Instruction_Tuning_CVPR_2024_paper.html)
 <p id="2"></p >
 
 ## CAD Application Taxonomy
@@ -232,13 +236,29 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Large Language Models for Design and Manufacturing](https://mit-genai.pubpub.org/pub/nmypmnhs/release/2)
 
 [Utilizing ChatGPT to assist CAD design for microfluidic devices](https://pubs.rsc.org/en/content/articlelanding/2015/3a/d3lc00518f/unauth)
+
+[CAD-Assistant: Tool-Augmented VLLMs as Generic CAD Task Solvers](https://arxiv.org/abs/2412.13810)
+
+[CAD-Recode: Reverse Engineering CAD Code from Point Clouds](https://arxiv.org/abs/2412.14042)
+
+[A Solver-Aided Hierarchical Language for LLM-Driven CAD Design](https://arxiv.org/abs/2502.09819)
+
+[Arti!cial Intelligence and Large Language Models in CAD](http://hdl.handle.net/20.500.12380/308899)
+
+[QueryCAD: Grounded Question Answering for CAD Models](https://arxiv.org/abs/2409.08704)
+
+[From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design](https://arxiv.org/abs/2503.04417)
+
+[An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation](https://www.sciencedirect.com/science/article/pii/S2212827124006656)
 <p id="2.3"></p >
 
-
-
-
-
 ### 3. Parametric CAD Generation
+
+[CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_21)
+
+[Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization](https://arxiv.org/abs/2408.01437)
+
+[FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823)
 <p id="2.4"></p >
 
 
