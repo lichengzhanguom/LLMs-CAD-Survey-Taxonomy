@@ -283,11 +283,11 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 [CADTalk: An Algorithm and Benchmark for Semantic Commenting of CAD Programs](https://openaccess.thecvf.com/content/CVPR2024/html/Yuan_CADTalk_An_Algorithm_and_Benchmark_for_Semantic_Commenting_of_CAD_CVPR_2024_paper.html)
 
-[An intelligent interactive system based on LLM to combine CAD API development with FEA(https://ieeexplore.ieee.org/abstract/document/10862035)
+[An intelligent interactive system based on LLM to combine CAD API development with FEA](https://ieeexplore.ieee.org/abstract/document/10862035)
 
 [Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](https://arxiv.org/abs/2411.02810)
 
-[AI large models bring great opportunities to reusable design of cad software(https://doiserbia.nb.rs/Article.aspx?id=1820-02142400046S)
+[AI large models bring great opportunities to reusable design of cad software](https://doiserbia.nb.rs/Article.aspx?id=1820-02142400046S)
 
 [From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design](https://arxiv.org/abs/2311.12668)
 
