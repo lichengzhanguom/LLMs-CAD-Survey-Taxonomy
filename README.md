@@ -1,6 +1,6 @@
 # Large Language Models for Computer-Aided Design: A Survey
 
-This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper——[_**Large Language Models for Computer-Aided Design: A Survey**_]().
+This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper[_**Large Language Models for Computer-Aided Design: A Survey**_]().
 # Overview
 ![Taxonomy](taxonomy.png)
 
@@ -247,7 +247,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 [A Solver-Aided Hierarchical Language for LLM-Driven CAD Design](https://arxiv.org/abs/2502.09819)
 
-[Arti!cial Intelligence and Large Language Models in CAD](http://hdl.handle.net/20.500.12380/308899)
+[Artificial Intelligence and Large Language Models in CAD](http://hdl.handle.net/20.500.12380/308899)
 
 [QueryCAD: Grounded Question Answering for CAD Models](https://arxiv.org/abs/2409.08704)
 
