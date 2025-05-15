@@ -1,6 +1,6 @@
 # Large Language Models for Computer-Aided Design: A Survey
 
-This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper-[_**Large Language Models for Computer-Aided Design: A Survey**_]().
+This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper-[_**Large Language Models for Computer-Aided Design: A Survey**_](https://arxiv.org/abs/2505.08137).
 # Overview
 ![Taxonomy](taxonomy.png)
 
@@ -258,7 +258,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 ### 3. Parametric CAD Generation
 
-[CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_21)
+[CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches](https://link.springer.com/chapter/10.1007/978-3-031-72897-6_21)
 
 [Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization](https://arxiv.org/abs/2408.01437)
 
