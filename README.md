@@ -1,4 +1,4 @@
-# Large Language Models for Computer-Aided Design: A Survey
+﻿# Large Language Models for Computer-Aided Design: A Survey
 
 This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper-[_**Large Language Models for Computer-Aided Design: A Survey**_](https://arxiv.org/abs/2505.08137).
 # Overview
@@ -107,7 +107,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 ### 3. Others
 
-[PanGu-&Sigma: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
+[PanGu-Σ: Towards Trillion Parameter Language Model with Sparse Heterogeneous Computing](https://arxiv.org/abs/2303.10845)
 
 [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564)
 
@@ -201,7 +201,7 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 
 [LLaVA-OneVision: Easy Visual Task Transfer](https://arxiv.org/abs/2408.03326)
 
-[Evaluating Text-to-Visual Generation with�Image-to-Text Generation](https://link.springer.com/chapter/10.1007/978-3-031-72673-6_20)
+[Evaluating Text-to-Visual Generation withʉmage-to-Text Generation](https://link.springer.com/chapter/10.1007/978-3-031-72673-6_20)
 
 [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://openreview.net/forum?id=3X2L2TFr0f#discussion)
 <p id="2"></p >
