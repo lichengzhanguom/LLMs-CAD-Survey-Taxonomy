@@ -254,6 +254,12 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [From Idea to CAD: A Language Model-Driven Multi-Agent System for Collaborative Design](https://arxiv.org/abs/2503.04417)
 
 [An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation](https://www.sciencedirect.com/science/article/pii/S2212827124006656)
+
+[CAD-Coder: An Open-Source Vision-Language Model for Computer-Aided Design Code Generation](https://arxiv.org/abs/2505.14646)
+
+[Text-to-CadQuery: A New Paradigm for CAD Generation with Scalable Large Model Capabilities](https://arxiv.org/abs/2505.06507)
+
+[cadrille: Multi-modal CAD Reconstruction with Online Reinforcement Learning](https://arxiv.org/abs/2505.22914)
 <p id="2.3"></p >
 
 ### 3. Parametric CAD Generation
@@ -263,6 +269,10 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Img2CAD: Reverse Engineering 3D CAD Models from Images through VLM-Assisted Conditional Factorization](https://arxiv.org/abs/2408.01437)
 
 [FlexCAD: Unified and Versatile Controllable CAD Generation with Fine-tuned Large Language Models](https://arxiv.org/abs/2411.05823)
+
+[CAD-Llama: leveraging large language models for computer-aided design parametric 3D model generation](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_CAD-Llama_Leveraging_Large_Language_Models_for_Computer-Aided_Design_Parametric_3D_CVPR_2025_paper.pdf)
+
+[CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing](https://arxiv.org/abs/2502.03997)
 <p id="2.4"></p >
 
 ### 4. Image Generation
