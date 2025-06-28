@@ -306,3 +306,14 @@ This repo is constructed for collecting papers on state-of-the-art large languag
 [Mini-InternVL: a flexible-transfer pocket multi-modal model with 5% parameters and 90% performance](https://link.springer.com/article/10.1007/s44267-024-00067-6)
 
 [Large Language Models for Manufacturing](https://arxiv.org/abs/2410.21418)
+
+## Citing
+If you find the work useful, please cite our paper:
+```
+@article{zhang2025large,
+  title={Large language models for computer-aided design: A survey},
+  author={Zhang, Licheng and Le, Bach and Akhtar, Naveed and Lam, Siew-Kei and Ngo, Tuan},
+  journal={arXiv preprint arXiv:2505.08137},
+  year={2025}
+}
+```
