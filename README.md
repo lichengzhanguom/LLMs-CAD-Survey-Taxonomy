@@ -1,6 +1,7 @@
 ﻿# Large Language Models for Computer-Aided Design: A Survey
 
-This repo is constructed for collecting papers on state-of-the-art large language models as well as their applications on computer-aided design according to our survey paper-[_**Large Language Models for Computer-Aided Design: A Survey**_](https://arxiv.org/abs/2505.08137).
+This repository serves as a curated collection of state-of-the-art papers on Large Language Models (LLMs) and their applications in Computer-Aided Design (CAD). It accompanies our survey paper——[_**Large Language Models for Computer-Aided Design: A Survey**_](https://arxiv.org/abs/2505.08137). Given the rapid advancement of both LLM architectures and CAD-related applications, we will continuously update **this repository and the corresponding [arXiv paper](https://arxiv.org/abs/2505.08137)** to reflect the latest developments in the field.
+
 # Overview
 ![Taxonomy](taxonomy.png)
 
