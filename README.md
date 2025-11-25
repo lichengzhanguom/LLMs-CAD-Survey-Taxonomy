@@ -205,6 +205,8 @@ This repository serves as a curated collection of state-of-the-art papers on Lar
 [Evaluating Text-to-Visual Generation withʉmage-to-Text Generation](https://link.springer.com/chapter/10.1007/978-3-031-72673-6_20)
 
 [MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://openreview.net/forum?id=3X2L2TFr0f#discussion)
+
+[Mini-InternVL: a flexible-transfer pocket multi-modal model with 5% parameters and 90% performance](https://link.springer.com/article/10.1007/s44267-024-00067-6)
 <p id="2"></p >
 
 ## CAD Application Taxonomy
@@ -303,8 +305,6 @@ This repository serves as a curated collection of state-of-the-art papers on Lar
 [From Concept to Manufacturing: Evaluating Vision-Language Models for Engineering Design](https://arxiv.org/abs/2311.12668)
 
 [From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach](https://ojs.aaai.org/index.php/AAAI/article/view/32858)
-
-[Mini-InternVL: a flexible-transfer pocket multi-modal model with 5% parameters and 90% performance](https://link.springer.com/article/10.1007/s44267-024-00067-6)
 
 [Large Language Models for Manufacturing](https://arxiv.org/abs/2410.21418)
 
